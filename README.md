@@ -17,7 +17,7 @@ Change runtime type to GPU.
 
 
 
-1.  Upload the above datasets in google drive and change the directory path to dataset loaction in read_csv function.
+1.  Upload the above datasets in google drive and change the directory path to dataset location in read_csv function.
 
 2.  To run the code execute the provided notebook cell by cell.
 
